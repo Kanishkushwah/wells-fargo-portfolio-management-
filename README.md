@@ -139,10 +139,8 @@ erDiagram
      ```
    - The application will start at `http://localhost:8080`.
 
-## Screenshots
-*(Add screenshots of your Postman requests, database schema generated in MySQL Workbench, or application logs here once deployed).*
+
 
 ## Author
-**[Your Name / Username]**  
-*Aspiring Software Engineer*  
+**[KANISHK KUSHWAH]**   
 Completed as part of the Wells Fargo Software Engineering Virtual Experience Program on Forage.
